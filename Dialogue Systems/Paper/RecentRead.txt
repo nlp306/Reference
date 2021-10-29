@@ -1,1 +1,2 @@
-
+1.Chen H, Liu X, Yin D, et al. A survey on dialogue systems: Recent advances and new frontiers[J]. Acm Sigkdd Explorations Newsletter, 2017, 19(2): 25-35.
+2.Welleck S, Kulikov I, Roller S, et al. Neural text generation with unlikelihood training[J]. arXiv preprint arXiv:1908.04319, 2019.
